@@ -1,0 +1,47 @@
+[
+  {
+    "id": "507f1f77bcf86cd799439011",
+    "name": "Dell XPS 13",
+    "type": "Ultrabook",
+    "price": 1200.99,
+    "discount": 10,
+    "specifications": "16GB RAM, 512GB SSD",
+    "modelYear": 2023,
+    "isAvailable": true,
+    "created_At": "2025-08-22T20:00:00.000Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439012",
+    "name": "HP Omen 16",
+    "type": "Gaming",
+    "price": 1500,
+    "discount": 5,
+    "specifications": "32GB RAM, 1TB SSD, RTX 4070",
+    "modelYear": 2024,
+    "isAvailable": true,
+    "created_At": "2025-08-22T20:00:00.000Z"
+  },
+  {
+    "id": "507f1f77bcf86cd799439013",
+    "name": "Apple MacBook Air M2",
+    "type": "Ultrabook",
+    "price": 1300,
+    "discount": 0,
+    "specifications": "8GB RAM, 512GB SSD",
+    "modelYear": 2023,
+    "isAvailable": false,
+    "created_At": "2025-08-22T20:00:00.000Z"
+  },
+  {
+    "id": "1883539f-5ce8-4c17-b62e-",
+    "name": "Asus ROG Zephyrus",
+    "type": "Gaming",
+    "price": 1800,
+    "discount": 7,
+    "specifications": "32GB RAM, 1TB SSD, RTX 4080",
+    "modelYear": 2024,
+    "isAvailable": true,
+    "created_At": "2025-08-22T19:21:24.939Z",
+    "updated_At": "2025-08-22T19:21:24.940Z"
+  }
+]

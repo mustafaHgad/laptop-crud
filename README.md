@@ -14,17 +14,17 @@ A simple CRUD project built with **Express.js** and **Nodemon**, using a fake da
 ---
 
 ## 📂 Project Structure
-laptop-crud/
-├── controllers/
-│ └── laptopController.js
-├── data/
-│ └── laptops.json
-├── middleware/
-│ └── timestampMiddleware.js
-├── routes/
-│ └── laptopRoutes.js
-├── services/
-│ └── laptopService.js
-├── server.js
-├── package.json
-└── README.md
+laptop-crud/ </br>
+├── controllers/ </br>
+│ └── laptopController.js </br>
+├── data/ </br>
+│ └── laptops.json </br>
+├── middleware/ </br>
+│ └── timestampMiddleware.js </br>
+├── routes/ </br>
+│ └── laptopRoutes.js </br>
+├── services/ </br>
+│ └── laptopService.js </br>
+├── server.js </br>
+├── package.json </br>
+└── README.md </br>
